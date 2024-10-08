@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fondo">#242c44</color>
+    <color name="letra1">#facb08</color>
+    <color name="letra2">#A4D13D</color>
+    <color name="mr_burns_suit">#276067</color>
+</resources>

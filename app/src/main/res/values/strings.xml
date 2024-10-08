@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Put Extras Intent</string>
+    <string name="titulo">Enviar datos entre Intents (putExtra)</string>
+    <string name="editText_nombre">Nombre</string>
+    <string name="editText_pass">Password</string>
+    <string name="boton_enviar">Enviar</string>
+    <string name="boton_limpiar">Limpiar</string>
+
+</resources>
